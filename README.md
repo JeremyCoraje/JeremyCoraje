@@ -19,6 +19,7 @@ Aquí tienes algunas de las tecnologías con las que trabajo o estoy aprendiendo
 
 ### Frameworks & Librerias
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular_(Aprendizaje)-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring_(Aprendizaje)-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
